@@ -54,6 +54,7 @@ const DefaultFooter = () => (
             <div className="footer-logo mb-30">
               <Link href="/">
                 <a>
+                  
                   <img src="assets/images/myimg/logo.png" alt="Logo" />
                 </a>
               </Link>

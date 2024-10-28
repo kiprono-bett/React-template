@@ -368,7 +368,7 @@ const Index = () => {
                   <i className="fas fa-star" />
                 </div>
                 <h5>
-                  <Link href="/product-details">Organic Brocolli</Link>
+                  <Link href="/product-details">Organic Brocollis</Link>
                 </h5>
                 <span className="price">
                   <del>25</del>

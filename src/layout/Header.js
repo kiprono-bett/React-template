@@ -80,7 +80,7 @@ const DaskTopMenu = () => (
       </div>
     </li>
     <li className="dropdown">
-      <a href="#">shop</a>
+      <a href="#">shop</a> 
       <ul>
         <Shop />
       </ul>
